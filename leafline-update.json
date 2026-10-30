@@ -1,0 +1,9 @@
+{
+  "appId": "com.benighter.leafline",
+  "version": "1.1.0",
+  "url": "https://github.com/Benighter/Leafline-Releases/releases/download/v1.1.0/Leafline-1.1.0-Setup.exe",
+  "size": 138880986,
+  "sha256": "f0b7e3dd15fa7c1c013f13d13a71b6f31793aba1965d5ff4ac68c9b564e53aec",
+  "notes": "Leafline 1.1.0\n\n- Faster search and scrolling in large book libraries.\n- Native Rust cover previews reduce image memory use while keeping original books intact.\n- Book imports and full-book search run in the background so the window stays responsive.\n- Frequently opened chapters are cached; long chapters load in smaller sections.\n- Reading positions save in small batches while keeping notes and bookmarks intact.\n- PDF and comic pages load as needed, and the library starts without loading the PDF engine.\n- Existing 1.0 libraries migrate automatically, with a recovery copy of the original library metadata.",
+  "signature": "A47fs9hNIUJbNaGmOsp6jqrjP124YQ0sSN4V13ZQXuWdWMCDM+1FgmeqXWNlfxffYVvRMTd7kCU6EQV/4K2vCw=="
+}
